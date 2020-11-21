@@ -1,5 +1,5 @@
 <img src="https://packagephobia.com/logo.svg" width=40 height=40 align="left" />
-
+[![install size](https://packagephobia.com/badge?p=commander)](https://packagephobia.com/result?p=commander)
 # Package Phobia
 
 [![sponsor](https://badgen.net/badge/sponsor/styfle/black?icon=github)](https://github.com/sponsors/styfle)
