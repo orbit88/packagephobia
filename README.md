@@ -1,9 +1,8 @@
-[![install size](https://packagephobia.com/badge?p=commander)](https://packagephobia.com/result?p=commander)
-
 <img src="https://packagephobia.com/logo.svg" width=40 height=40 align="left" />
 
 # Package Phobia
 
+[![install size](https://packagephobia.com/badge?p=commander)](https://packagephobia.com/result?p=commander)
 [![sponsor](https://badgen.net/badge/sponsor/styfle/black?icon=github)](https://github.com/sponsors/styfle)
 [![tests](https://github.com/styfle/packagephobia/workflows/Tests/badge.svg)](https://github.com/styfle/packagephobia/actions?workflow=Tests)
 ![uptime](https://badgen.net/uptime-robot/week/m783908968-e68af1e88fe9d03309911b73)
